@@ -51,8 +51,8 @@ Explore the visuals and insights. Use filters/slicers for customized views.
 markdown
 Copy
 Edit
-![Overview Dashboard](images/overview_dashboard.png)
-![Forecast View](images/forecast_view.png)
+![Overview Dashboard](https://github.com/AshutoshPratapSingh17/Finance-Dashboard/blob/main/Dashboard.png)
+
 📚 Technologies Used
 Power BI
 
